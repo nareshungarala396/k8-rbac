@@ -16,3 +16,5 @@ kind: ConfigMap
 metadata:
   creationTimestamp: "2026-01-08T06:50:16Z"
   name: aws-auth
+  resourceVersion: "1218"
+  uid: 2c5898da-f687-40a7-8a48-7997d70683c6
